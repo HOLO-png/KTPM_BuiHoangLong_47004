@@ -1,0 +1,2874 @@
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials ****
+****Clicked Login Button ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials ****
+****Clicked Login Button ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+****shots screen search success ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials ****
+****Clicked Login Button ****
+****Title not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+****shots screen search success ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials ****
+****Clicked Login Button ****
+****Title not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+****shots screen search success ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials ****
+****Clicked Login Button ****
+****Title not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials ****
+****Clicked Login Button ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 5 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 5 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 5 failed *****
+****Entered Credentials 5 failed *****
+****Entered Credentials 5 failed *****
+****Entered Credentials 5 failed *****
+****Entered Credentials ****
+****Title not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 2 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials ****
+****Title not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 passed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 passed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title Signup not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials end ****
+****Title Signup not matched****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+**** Shorted ****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+**** Shorted ****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+**** Shorted ****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+**** Shorted ****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.50/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.50]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 100.0.1185
+Get LATEST edgedriver version for 100.0.1185 Edge
+There is no [win64] edgedriver for browser 100.0.1185 in cache
+Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.57/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\100.0.1185.57]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+There is no [win64] edgedriver for browser 101.0.1210 in cache
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+****shots screen search success ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+There is no [win64] edgedriver for browser  in cache
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+**** scroll search page is success ****
+****shots screen search success ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+**** scroll search page is success ****
+****title search not matched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Open input search success ****
+**** Set data to input search success ****
+**** Search keyword is success ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for #$%^@(#@
+****Search keys 1 failed *****
+Search Results for selenium with python
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for #$%^@(#@
+****Search keys 1 failed *****
+Search Results for hoandwdjawndhfawd
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+False
+False
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for #$%^@(#@
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+Search Results for hoandwdjawndhfawd
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 failed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 failed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+****Search keys 2 failed *****
+Search Results for hoandwdjawndhfawd
+Search Results for hoandwdjawndhfawd
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 failed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+****Search keys 2 failed *****
+Search Results for hoandwdjawndhfawd
+Search Results for hoandwdjawndhfawd
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 failed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+****Search keys 2 failed *****
+Search Results for hoandwdjawndhfawd
+Search Results for hoandwdjawndhfawd
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+****Search keys 5 failed *****
+****Entered Credentials end ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+There is no [win64] edgedriver for browser  in cache
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 failed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+****Search keys 2 failed *****
+Search Results for hoandwdjawndhfawd
+Search Results for hoandwdjawndhfawd
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+****Search keys 5 failed *****
+****Entered Credentials end ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+Search Results for hoandwdjawndhfawd
+Search Results for hoandwdjawndhfawd
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 passed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 passed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 passed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+****Search keys 1 passed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+True
+****Search keys 1 passed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+None
+****Search keys 1 failed *****
+Search Results for #$%^@(#@
+Search Results for #$%^@(#@
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Entered Credentials end ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+There is no [win64] edgedriver for browser 101.0.1210 in cache
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+[user_email_login] expected color is rgba(222, 20, 33, 1) and got rgba(215, 55, 55, 1)
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span>Invalid Characters</span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+[user_email_login] expected color is rgba(222, 20, 33, 1) and got rgba(215, 55, 55, 1)
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span>Invalid Characters</span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+**** Reads password from a text file ****
+****Clicked Signup Button ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Title Signup not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+****Clicked Signup Button ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 failed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.47/edgedriver_win64.zip
+Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47]
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage not matched****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Passing Credentials ****
+****Entered Credentials 1 failed *****
+****Entered Credentials 2 failed *****
+****Entered Credentials 3 failed *****
+****Entered Credentials 4 passed *****
+****Entered Credentials end ****
+****Title LoginPage matched****
+****Handle logout success****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Signup Initialized ****
+****Browser Signup Launched ****
+****Passing Signup Credentials ****
+**** Entered Signup Credentials ****
+**** accept cookie notification ****
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+<div class="msg-body">
+    <span></span>
+  </div> is missing error message
+****check validate form Signup ****
+****Clicked Signup Button ****
+****Title Signup matched****
+****Browser Signup closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver Initialized ****
+****Browser Launched ****
+****Title matched****
+****Browser closed****
+====== WebDriver manager ======
+Current edge version is 101.0.1210
+Get LATEST edgedriver version for 101.0.1210 Edge
+Driver [C:\Users\Admin\.wdm\drivers\edgedriver\win64\101.0.1210.47\msedgedriver.exe] found in cache
+****Driver search Initialized ****
+****Browser search Launched ****
+Search Results for Keys
+Most Reliable App & Cross Browser Testing Platform | BrowserStack
+ais-Hits ais-Hits--empty
+****Search keys 1 failed *****
+Search Results for dawddawdawdawdwa
+Search Results for dawddawdawdawdwa
+ais-Hits
+****Search keys 2 passed *****
+Search Results for &^*#^#@%*$#!
+Search Results for &^*#^#@%*$#!
+ais-Hits ais-Hits--empty
+****Search keys 3 failed *****
+Search Results for da12361728321
+Search Results for da12361728321
+ais-Hits ais-Hits--empty
+****Search keys 4 failed *****
+Search Results for window.alert(message);
+Search Results for window.alert(message);
+ais-Hits
+****Search keys 5 passed *****
+****Entered Credentials end ****
+****title screen search matched ****
+**** Browser search closed****
